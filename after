@@ -1,0 +1,2 @@
+my_numbers = [1,2,3,4,5]
+odd_numbers = [item for item in my_numbers if item % 2 == 1]
