@@ -1,2 +1,3 @@
+#в этом примере: конструктор списков — это передача элементов в odd_numbers, перебор my_numbers, выполнение return (первый item) и применение оператора if для фильтрации
 my_numbers = [1,2,3,4,5]
 odd_numbers = [item for item in my_numbers if item % 2 == 1]
